@@ -9,7 +9,7 @@
 
 2. **Step-by-Step Walkthrough**:
     - [ ] **Task 1:** Apply a background image.
-        - Add the `background-image` property to .parallax-1 and .parallax-2 and set each to a different image provided in the `assets/images` folder.
+        - Since .parallax-1 is already set up for you, add the `background-image` property to .parallax-2 and set it to robot-2.png from the `assets/images` folder.
     - [ ] **Task 2:** Control the image size.
         - Apply the `background-size` property.
     - [ ] **Task 3:** Prevent the image from repeating.

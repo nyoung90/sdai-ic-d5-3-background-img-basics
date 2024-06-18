@@ -31,12 +31,7 @@ h2 {
 }
 
 .parallax-2 {
-    background-image: url('assets/images/robot-2.png');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
-    height: 50vh;
+    /* set this up like parallax-1 */
 }
 
 
