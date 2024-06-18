@@ -1,26 +1,45 @@
-## Demo – Basics of Background Images 🎥
+# Cascade Cafe Parallax Effect
 
-**Objective**: Learn how to apply various CSS properties to manipulate background images and create a parallax effect.
+This project demonstrates a parallax effect for the Cascade Cafe website. The parallax effect is achieved using HTML and CSS, with a focus on creating an engaging user experience.
 
-### ToDo list ✅
+## Objectives
 
-1. **Introduction**:
-    - [ ] Understand the use of CSS to manipulate background images.
+- Understand how to use CSS to create a parallax effect.
+- Apply background image properties to create visually appealing backgrounds.
+- Learn how to use HTML and CSS to structure and style a simple webpage.
 
-2. **Step-by-Step Walkthrough**:
-    - [ ] **Task 1:** Apply a background image.
-        - Since .parallax-1 is already set up for you, add the `background-image` property to .parallax-2 and set it to robot-2.png from the `assets/images` folder.
-    - [ ] **Task 2:** Control the image size.
-        - Apply the `background-size` property.
-    - [ ] **Task 3:** Prevent the image from repeating.
-        - Use the `background-repeat` property.
-    - [ ] **Task 4:** Center the image.
-        - Set the `background-position` property to `center`.
-    - [ ] **Task 5:** Add a parallax effect.
-        - Use the `background-attachment` property with the value `fixed`.
+## Instructions
 
-3. **Review**:
-    - [ ] Review the applied background image properties to ensure they work as expected.
+### 1. Introduction
+
+The parallax effect creates an illusion of depth by having the background image move at a different speed than the foreground content as you scroll.
+
+### 2. Step-by-Step Walkthrough
+
+#### Task 1: Apply a Background Image
+
+- Add the `background-image` property to the `.parallax` class at the bottom of the CSS file.
+- Set the image URL to `assets/images/cafe-club.jpg`.
+
+#### Task 2: Control the Image Size
+
+- Apply the `background-size` property to the `.parallax` class and set it to `cover`.
+
+#### Task 3: Prevent the Image from Repeating
+
+- Use the `background-repeat` property and set it to `no-repeat`.
+
+#### Task 4: Center the Image
+
+- Set the `background-position` property to `center`.
+
+#### Task 5: Add a Parallax Effect
+
+- Use the `background-attachment` property and set it to `fixed`.
+
+### 3. Review
+
+- Review the applied background image properties to ensure they work as expected.
 
 ### Congratulations 🎉
 
