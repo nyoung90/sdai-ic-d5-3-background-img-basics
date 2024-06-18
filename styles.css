@@ -1,0 +1,48 @@
+/* styles.css */
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 2.3rem;  
+    margin: 1.5rem; 
+}
+
+h2 {
+    font-size: 1.8rem;
+    margin: 1rem;
+}   
+
+.parallax-1 {
+    background-image: url('assets/images/robot-1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 50vh;
+}
+
+.parallax-2 {
+    background-image: url('assets/images/robot-2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 50vh;
+}
+
+
+.content {
+    padding: 2rem;
+    background-color: white;
+    color: black;
+    text-align: center;
+}
