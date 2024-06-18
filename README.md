@@ -41,6 +41,9 @@ The parallax effect creates an illusion of depth by having the background image 
 
 - Review the applied background image properties to ensure they work as expected.
 
+### 4. No solo exercise
+You've already mastered the basics of parallax imagery upon completing this, so we'll learn and apply more of our skills instead!
+
 ### Congratulations 🎉
 
 You have successfully learned the basics of manipulating background images using CSS! You've learned how to:
