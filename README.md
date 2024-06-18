@@ -16,26 +16,27 @@ The parallax effect creates an illusion of depth by having the background image 
 
 ### 2. Step-by-Step Walkthrough
 
-#### Task 1: Apply a Background Image
+- [ ] Task 1: Apply a Background Image
+    - Add the `background-image` property to the `.parallax` class at the bottom of the CSS file.
+    - Set the image URL to `assets/images/cafe-club.jpg`.
+    - Your background has to have a size for it to show up, so let's add a `height` of `50vh`.
 
-- Add the `background-image` property to the `.parallax` class at the bottom of the CSS file.
-- Set the image URL to `assets/images/cafe-club.jpg`.
+- [ ] Task 2: Control the Image Size
+    - Apply the `background-size` property to the `.parallax` class and set it to `cover`.
 
-#### Task 2: Control the Image Size
+- [ ] Task 3: Prevent the Image from Repeating
+    - Use the `background-repeat` property and set it to `no-repeat`.
 
-- Apply the `background-size` property to the `.parallax` class and set it to `cover`.
+- [ ] Task 4: Center the Image
+    - Set the `background-position` property to `center`.
 
-#### Task 3: Prevent the Image from Repeating
+- [ ] Task 5: Add a Parallax Effect
+    - Use the `background-attachment` property and set it to `fixed`.
 
-- Use the `background-repeat` property and set it to `no-repeat`.
-
-#### Task 4: Center the Image
-
-- Set the `background-position` property to `center`.
-
-#### Task 5: Add a Parallax Effect
-
-- Use the `background-attachment` property and set it to `fixed`.
+- [ ] Task 6: Make quick design improvements
+    - Here are a few options to consider:
+    - Try setting `border-radius` to `3%` to create round edges on the image, then adjust to your preference
+    - Consider setting `margin` to `2rem 0` and experiment with other values until things look spaced nicely
 
 ### 3. Review
 
