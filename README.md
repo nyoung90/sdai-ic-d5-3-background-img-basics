@@ -17,7 +17,7 @@ The parallax effect creates an illusion of depth by having the background image 
 ### 2. Step-by-Step Walkthrough
 
 - [ ] Task 1: Apply a Background Image
-    - Add the `background-image` property to the `.parallax` class at the bottom of the CSS file.
+    - Add the `background-image` property to the `.parallax` class at the bottom of your CSS file.
     - Set the image URL to `assets/images/cafe-club.jpg`.
     - Your background has to have a size for it to show up, so let's add a `height` of `50vh`.
 
